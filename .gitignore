@@ -1,0 +1,9 @@
+# task artifacts
+.task
+
+# binaries
+bin
+
+# environment config
+.env
+.vscode

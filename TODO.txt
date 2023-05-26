@@ -1,0 +1,13 @@
+# app relevant things to do
+
+
+CURRENT:
+- Add tests
+- Do we need to sanitize input??
+
+Down the line:
+- Probably should use an external auth service
+
+v1: Working User registration, full stack app, you can use essentially like google sheets is used
+v2: Upgrade backend for tracking and predictions over time
+v3: Make the frontend Spicy and have cool graphs and whatnot
